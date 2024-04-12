@@ -23,4 +23,4 @@ hi def link sxBrace Special
 hi def link sxHotkeySep Delimiter
 hi def link sxSequenceSep Delimiter
 
-let b:current_syntax = "sxhkdrc"
+let b:current_syntax = "swhkdrc"
